@@ -75,8 +75,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-800 pt-8">
           <p className="text-center text-gray-500 text-sm">
-            © {currentYear} Blasters of Bharat. All rights reserved. | Built
-            with Next.js & ❤️
+            © {currentYear} Blasters of Bharat. All rights reserved. 
           </p>
         </div>
       </div>
