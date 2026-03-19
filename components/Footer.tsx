@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -13,7 +13,8 @@ export default function Footer() {
               🏏 Blasters of Bharat
             </h3>
             <p className="text-gray-400">
-              Your ultimate cricket knowledge hub. Expert tips, analysis, and insights from the world of cricket.
+              Just a bunch of engineers escaping code on weekends to play
+              cricket and share our matches, stats, and moments from the ground.
             </p>
           </div>
 
@@ -44,13 +45,29 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="text-lg font-semibold text-white mb-4">
-              Contact
-            </h4>
+            <h4 className="text-lg font-semibold text-white mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: info@blastersofbharat.com</li>
-              <li>Twitter: @BlastersOfBharat</li>
-              <li>Instagram: @BlastersOfBharat</li>
+              <li>Email: sagarsharmatech00@gmail.com</li>
+              <li>
+                X:{" "}
+                <a
+                  className="text-gray-400"
+                  href="https://x.com/mishraksachin"
+                  target="_blank"
+                >
+                  mishraksachin
+                </a>
+              </li>
+              <li>
+                Instagram:{" "}
+                <a
+                  className="text-gray-400"
+                  href="https://www.instagram.com/sagars_soul/?hl=en"
+                  target="_blank"
+                >
+                  sagars_soul
+                </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -58,7 +75,8 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-800 pt-8">
           <p className="text-center text-gray-500 text-sm">
-            © {currentYear} Blasters of Bharat. All rights reserved. | Built with Next.js & ❤️
+            © {currentYear} Blasters of Bharat. All rights reserved. | Built
+            with Next.js & ❤️
           </p>
         </div>
       </div>
