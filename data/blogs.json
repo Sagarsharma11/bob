@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "slug": "blasters-of-bharat-team-stats",
+    "title": "Blasters of Bharat Team Stats Overview",
+    "author": "Sagar Sharma",
+    "date": "2026-03-19",
+    "coverImage": "/images/team-stats.jpg",
+    "description": "Complete performance stats including matches, wins, losses, and toss data.",
+    "tags": ["Cricket", "Stats", "Analysis"],
+    "readTime": 3,
+    "content": [
+      {
+        "type": "heading",
+        "value": "Team Performance"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Matches Played: 68",
+          "Upcoming Matches: 3",
+          "Matches Won: 17",
+          "Matches Lost: 46",
+          "Tie: 0",
+          "Drawn: 0",
+          "No Result: 2",
+          "Win Percentage: 27.0%"
+        ]
+      },
+      {
+        "type": "heading",
+        "value": "Toss Statistics"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Toss Won: 26",
+          "Bat First: 14",
+          "Field First: 12"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "blasters-of-bharat-batting-leaderboard",
+    "title": "Blasters of Bharat Batting Leaderboard",
+    "author": "Sagar Sharma",
+    "date": "2026-03-19",
+    "coverImage": "/images/batting-leaderboard.jpg",
+    "description": "Top batting performers based on runs, averages, and strike rates.",
+    "tags": ["Cricket", "Leaderboard", "Batting"],
+    "readTime": 5,
+    "content": [
+      {
+        "type": "heading",
+        "value": "Top Run Scorers"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Pavan K Reddy - Inns: 30 | Runs: 914  | SR: 149.59",
+          "Kushagra Singh - Inns: 29 | Runs: 609  | SR: 111.54",
+          "Abhinav Upadhyay - Inns: 41 | Runs: 523 | SR: 98.49",
+          "Gyan Kumar - Inns: 34 | Runs: 502 | SR: 124.26",
+          "Sagar Sharma - Inns: 47 | Runs: 456 | SR: 87.36",
+          "Vidhya Sagar - Inns: 23 | Runs: 404  | SR: 178.76",
+          "Sachin Mishra - Inns: 48 | Runs: 319 | SR: 99.69",
+          "Kapil SK - Inns: 17 | Runs: 302 | SR: 133.04"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "blasters-of-bharat-match-gallery",
+    "title": "Blasters of Bharat Match Gallery",
+    "author": "Sagar Sharma",
+    "date": "2026-03-19",
+    "coverImage": "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687873_mBHddGfMA36d.jpeg",
+    "description": "Match moments and highlights captured during games.",
+    "tags": ["Cricket", "Gallery", "Photos"],
+    "readTime": 2,
+    "content": [
+      {
+        "type": "heading",
+        "value": "Match Highlights Gallery"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687873_mBHddGfMA36d.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243685770_ElwcqcPGnIkd.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600256733_m76F7zNiT6ev.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765103612051_9rA1EhJgTSa6.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687172_rod41394z0ut.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600273212_mZiWtJYIkBZQ.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600246140_8o3yNkkEfx91.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243686580_oISZ5ykfNFmH.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600265848_T7U0lWlwBJsj.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765103640654_5c1Fn9QmvmWl.jpg"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "value": "These images capture key moments, team spirit, and action-packed performances from recent matches."
+      }
+    ]
+  },
+  {
+  "id": 4,
+  "slug": "blasters-of-bharat-journey",
+  "title": "The Journey of Blasters of Bharat",
+  "author": "Sagar Sharma",
+  "date": "2026-03-19",
+  "coverImage": "/images/journey.jpg",
+  "description": "How a group of friends turned weekend cricket into a proper 20-over journey.",
+  "tags": ["Cricket", "Journey", "Team Story"],
+  "readTime": 6,
+  "content": [
+    {
+      "type": "heading",
+      "value": "Where It All Started"
+    },
+    {
+      "type": "paragraph",
+      "value": "Blasters of Bharat started back in 14th January 2025, not as a big team but just a small group of 3-4 friends who simply loved playing cricket. Like most weekend cricketers, we used to play on local grounds where multiple teams shared the same space, making it chaotic and sometimes frustrating."
+    },
+    {
+      "type": "paragraph",
+      "value": "Getting proper time to bat or bowl was always a challenge. Matches were unstructured, and the experience was far from the kind of cricket we actually wanted to play."
+    },
+    {
+      "type": "heading",
+      "value": "The Big Shift to 20 Overs"
+    },
+    {
+      "type": "paragraph",
+      "value": "That’s when we decided to do something different — play proper 20-over matches. Instead of adjusting on crowded local grounds, we started exploring grounds on the outskirts of Bangalore. We booked proper grounds, planned matches, and began playing like a real team."
+    },
+    {
+      "type": "paragraph",
+      "value": "The first match felt different. Then came the second, and slowly, we realized how much we were enjoying this structured format. It wasn’t just casual cricket anymore — it started feeling like a real journey."
+    },
+    {
+      "type": "heading",
+      "value": "Leadership and Learning"
+    },
+    {
+      "type": "paragraph",
+      "value": "Sachin, our first captain, played a huge role in shaping the team during the early days. Moving from short 7-over matches to full 20-over games is not easy — it requires planning, patience, and better decision-making."
+    },
+    {
+      "type": "paragraph",
+      "value": "He learned and adapted quickly, managing the team, handling match situations, and building a proper structure around how we play. That transition phase was challenging, but it helped us grow as a team."
+    },
+    {
+      "type": "heading",
+      "value": "More Than Just Matches"
+    },
+    {
+      "type": "paragraph",
+      "value": "What started as a simple plan to play better cricket slowly turned into something much bigger. It became about team bonding, weekend excitement, and creating memories on the field."
+    },
+    {
+      "type": "paragraph",
+      "value": "Blasters of Bharat is not just a cricket team — it’s a journey of friends, passion, and the love for the game that keeps growing with every match we play."
+    }
+  ]
+}
+]
