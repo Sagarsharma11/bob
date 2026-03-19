@@ -34,6 +34,18 @@ export default function ContentRenderer({ content }: ContentRendererProps) {
               </p>
             );
 
+          case "link":
+            return (
+              <a
+                href={block.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 underline font-semibold"
+              >
+                {block.label}
+              </a>
+            );
+
           case "list":
             // Check if this is a stats list (contains colons or pipes)
             const isStats = block.items?.some(

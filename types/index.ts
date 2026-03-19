@@ -1,4 +1,4 @@
-export type ContentType = 'heading' | 'paragraph' | 'list' | 'image' | 'quote' | 'code' | 'gallery';
+export type ContentType = 'heading' | 'paragraph' | 'list' | 'image' | 'quote' | 'code' | 'gallery' | 'link';
 
 export interface ContentBlock {
   type: ContentType;
@@ -8,6 +8,8 @@ export interface ContentBlock {
   alt?: string;
   language?: string;
   images?: string[];
+  href: string;
+  label: string
 }
 
 export interface Blog {

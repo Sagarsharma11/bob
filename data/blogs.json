@@ -1,43 +1,221 @@
 [
   {
-    "id": 1,
-    "slug": "blasters-of-bharat-team-stats",
-    "title": "Blasters of Bharat Team Stats Overview",
-    "author": "Sagar Sharma",
+    "id": 5,
+    "slug": "blasters-of-bharat-first-match-victory",
+    "title": "Blasters of Bharat First Match Victory",
+    "author": "BOB Admin Team",
     "date": "2026-03-19",
-    "coverImage": "/images/team-stats.jpg",
-    "description": "Complete performance stats including matches, wins, losses, and toss data.",
-    "tags": ["Cricket", "Stats", "Analysis"],
-    "readTime": 3,
+    "coverImage": "/images/first-match.jpg",
+    "description": "A memorable first victory that marked the beginning of Blasters of Bharat’s journey.",
+    "tags": ["Cricket", "Match Story", "Victory"],
+    "readTime": 6,
     "content": [
       {
         "type": "heading",
-        "value": "Team Performance"
+        "value": "The Beginning of Something Special"
       },
       {
-        "type": "list",
-        "items": [
-          "Matches Played: 68",
-          "Upcoming Matches: 3",
-          "Matches Won: 17",
-          "Matches Lost: 46",
-          "Tie: 0",
-          "Drawn: 0",
-          "No Result: 2",
-          "Win Percentage: 27.0%"
-        ]
+        "type": "paragraph",
+        "value": "What started as just another weekend plan turned into a memorable moment for Blasters of Bharat. A group of engineers stepped onto the ground not just to play, but unknowingly to create their first big victory together."
       },
       {
         "type": "heading",
-        "value": "Toss Statistics"
+        "value": "First Innings – A Tough Start"
       },
       {
-        "type": "list",
-        "items": [
-          "Toss Won: 26",
-          "Bat First: 14",
-          "Field First: 12"
+        "type": "paragraph",
+        "value": "The innings didn’t begin as expected. Early wickets put the team under pressure, and scoring runs wasn’t easy in the beginning. Sagar Sharma fell early, and the team had to rebuild carefully."
+      },
+      {
+        "type": "paragraph",
+        "value": "Despite the early setbacks, players like Gyan Kumar and Saurabh Mishra stepped up to stabilize the innings and keep the scoreboard moving."
+      },
+      {
+        "type": "heading",
+        "value": "Building Momentum"
+      },
+      {
+        "type": "paragraph",
+        "value": "As the innings progressed, the team started gaining confidence. Partnerships were built, singles were rotated well, and occasional boundaries helped maintain momentum."
+      },
+      {
+        "type": "paragraph",
+        "value": "Kushagra Singh and others contributed crucial runs in the middle overs, ensuring the team reached a competitive total."
+      },
+      {
+        "type": "heading",
+        "value": "Captain’s Impact – Gyan Kumar"
+      },
+      {
+        "type": "paragraph",
+        "value": "Gyan Kumar led the team with calmness and intent in this match. As captain, he not only contributed with the bat but also kept the team motivated during tough phases. His decisions on the field, especially while rotating bowlers and setting the field, played an important role in maintaining pressure on the opposition."
+      },
+      {
+        "type": "paragraph",
+        "value": "For a team that was still finding its rhythm, Gyan’s leadership brought stability and confidence. He ensured everyone stayed focused and played as a unit."
+      },
+      {
+        "type": "heading",
+        "value": "Final Overs – Strong Finish"
+      },
+      {
+        "type": "paragraph",
+        "value": "The last few overs brought in valuable runs. Smart batting, quick running between wickets, and timely boundaries helped Blasters of Bharat finish strong and set a defendable target."
+      },
+      {
+        "type": "heading",
+        "value": "Second Innings – Bowling Under Pressure"
+      },
+      {
+        "type": "paragraph",
+        "value": "Defending the total was the real challenge. The bowlers stepped up with discipline, maintaining tight lines and not allowing easy runs."
+      },
+      {
+        "type": "paragraph",
+        "value": "Harsha Vardhana P, Karthik XVII, and R Goutham played key roles by taking crucial wickets and controlling the flow of runs."
+      },
+      {
+        "type": "heading",
+        "value": "Turning Point of the Match"
+      },
+      {
+        "type": "paragraph",
+        "value": "The match turned in Blasters’ favor when two quick wickets fell in the middle overs. This shifted the pressure onto the opposition, increasing the required run rate and breaking their momentum."
+      },
+      {
+        "type": "heading",
+        "value": "Closing the Game"
+      },
+      {
+        "type": "paragraph",
+        "value": "In the final overs, the team showed great composure. Tight bowling, sharp fielding, and smart decisions ensured that the opposition couldn’t recover."
+      },
+      {
+        "type": "paragraph",
+        "value": "Blasters of Bharat secured their first victory — a moment that marked the real beginning of their journey."
+      },
+      {
+        "type": "heading",
+        "value": "More Than Just a Win"
+      },
+      {
+        "type": "paragraph",
+        "value": "This wasn’t just about winning a match. It was about teamwork, learning, and building something together. From a group of friends to a proper team, this victory gave everyone confidence and belief."
+      },
+      {
+        "type": "paragraph",
+        "value": "Blasters of Bharat is not just about cricket — it’s about passion, friendship, and the memories we create every weekend."
+      },
+      {
+        "type": "heading",
+        "value": "Full Match Scorecard"
+      },
+      {
+        "type": "link",
+        "label": "View Complete Scorecard on CricHeroes",
+        "href": "https://cricheroes.com/scorecard/15647718/nuance-practice-matches/blasters-of-bharat-vs-super-strikers/scorecard"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "blasters-of-bharat-journey",
+    "title": "The Journey of Blasters of Bharat",
+    "author": "Sagar Sharma",
+    "date": "2026-03-19",
+    "coverImage": "/images/journey.jpg",
+    "description": "How a group of friends turned weekend cricket into a proper 20-over journey.",
+    "tags": ["Cricket", "Journey", "Team Story"],
+    "readTime": 6,
+    "content": [
+      {
+        "type": "heading",
+        "value": "Where It All Started"
+      },
+      {
+        "type": "paragraph",
+        "value": "Blasters of Bharat started back in 14th January 2025, not as a big team but just a small group of 3-4 friends who simply loved playing cricket. Like most weekend cricketers, we used to play on local grounds where multiple teams shared the same space, making it chaotic and sometimes frustrating."
+      },
+      {
+        "type": "paragraph",
+        "value": "Getting proper time to bat or bowl was always a challenge. Matches were unstructured, and the experience was far from the kind of cricket we actually wanted to play."
+      },
+      {
+        "type": "heading",
+        "value": "The Big Shift to 20 Overs"
+      },
+      {
+        "type": "paragraph",
+        "value": "That’s when we decided to do something different — play proper 20-over matches. Instead of adjusting on crowded local grounds, we started exploring grounds on the outskirts of Bangalore. We booked proper grounds, planned matches, and began playing like a real team."
+      },
+      {
+        "type": "paragraph",
+        "value": "The first match felt different. Then came the second, and slowly, we realized how much we were enjoying this structured format. It wasn’t just casual cricket anymore — it started feeling like a real journey."
+      },
+      {
+        "type": "heading",
+        "value": "Leadership and Learning"
+      },
+      {
+        "type": "paragraph",
+        "value": "Sachin, our first captain, played a huge role in shaping the team during the early days. Moving from short 7-over matches to full 20-over games is not easy — it requires planning, patience, and better decision-making."
+      },
+      {
+        "type": "paragraph",
+        "value": "He learned and adapted quickly, managing the team, handling match situations, and building a proper structure around how we play. That transition phase was challenging, but it helped us grow as a team."
+      },
+      {
+        "type": "heading",
+        "value": "More Than Just Matches"
+      },
+      {
+        "type": "paragraph",
+        "value": "What started as a simple plan to play better cricket slowly turned into something much bigger. It became about team bonding, weekend excitement, and creating memories on the field."
+      },
+      {
+        "type": "paragraph",
+        "value": "Blasters of Bharat is not just a cricket team — it’s a journey of friends, passion, and the love for the game that keeps growing with every match we play."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "blasters-of-bharat-match-gallery",
+    "title": "Blasters of Bharat Match Gallery",
+    "author": "Sagar Sharma",
+    "date": "2026-03-19",
+    "coverImage": "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687873_mBHddGfMA36d.jpeg",
+    "description": "Match moments and highlights captured during games.",
+    "tags": ["Cricket", "Gallery", "Photos"],
+    "readTime": 2,
+    "content": [
+      {
+        "type": "heading",
+        "value": "Match Highlights Gallery"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          "/images/bob_turnament1.jpeg",
+          "/images/bob_turnament2.jpeg",
+          "/images/bob_turnament3.jpeg",
+          "/images/bob_turnament4.jpeg",
+          "/images/bob_turnament5.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687873_mBHddGfMA36d.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243685770_ElwcqcPGnIkd.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600256733_m76F7zNiT6ev.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765103612051_9rA1EhJgTSa6.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687172_rod41394z0ut.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600273212_mZiWtJYIkBZQ.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600246140_8o3yNkkEfx91.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243686580_oISZ5ykfNFmH.jpeg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600265848_T7U0lWlwBJsj.jpg",
+          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765103640654_5c1Fn9QmvmWl.jpg"
         ]
+      },
+      {
+        "type": "paragraph",
+        "value": "These images capture key moments, team spirit, and action-packed performances from recent matches."
       }
     ]
   },
@@ -72,100 +250,41 @@
     ]
   },
   {
-    "id": 3,
-    "slug": "blasters-of-bharat-match-gallery",
-    "title": "Blasters of Bharat Match Gallery",
+    "id": 1,
+    "slug": "blasters-of-bharat-team-stats",
+    "title": "Blasters of Bharat Team Stats Overview",
     "author": "Sagar Sharma",
     "date": "2026-03-19",
-    "coverImage": "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687873_mBHddGfMA36d.jpeg",
-    "description": "Match moments and highlights captured during games.",
-    "tags": ["Cricket", "Gallery", "Photos"],
-    "readTime": 2,
+    "coverImage": "/images/team-stats.jpg",
+    "description": "Complete performance stats including matches, wins, losses, and toss data.",
+    "tags": ["Cricket", "Stats", "Analysis"],
+    "readTime": 3,
     "content": [
       {
         "type": "heading",
-        "value": "Match Highlights Gallery"
+        "value": "Team Performance"
       },
       {
-        "type": "gallery",
-        "images": [
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687873_mBHddGfMA36d.jpeg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243685770_ElwcqcPGnIkd.jpeg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600256733_m76F7zNiT6ev.jpg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765103612051_9rA1EhJgTSa6.jpg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243687172_rod41394z0ut.jpeg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600273212_mZiWtJYIkBZQ.jpg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600246140_8o3yNkkEfx91.jpg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1769243686580_oISZ5ykfNFmH.jpeg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765600265848_T7U0lWlwBJsj.jpg",
-          "https://cricheroes-media-mumbai.s3.ap-south-1.amazonaws.com/match_media/1765103640654_5c1Fn9QmvmWl.jpg"
+        "type": "list",
+        "items": [
+          "Matches Played: 68",
+          "Upcoming Matches: 3",
+          "Matches Won: 17",
+          "Matches Lost: 46",
+          "Tie: 0",
+          "Drawn: 0",
+          "No Result: 2",
+          "Win Percentage: 27.0%"
         ]
       },
       {
-        "type": "paragraph",
-        "value": "These images capture key moments, team spirit, and action-packed performances from recent matches."
+        "type": "heading",
+        "value": "Toss Statistics"
+      },
+      {
+        "type": "list",
+        "items": ["Toss Won: 26", "Bat First: 14", "Field First: 12"]
       }
     ]
-  },
-  {
-  "id": 4,
-  "slug": "blasters-of-bharat-journey",
-  "title": "The Journey of Blasters of Bharat",
-  "author": "Sagar Sharma",
-  "date": "2026-03-19",
-  "coverImage": "/images/journey.jpg",
-  "description": "How a group of friends turned weekend cricket into a proper 20-over journey.",
-  "tags": ["Cricket", "Journey", "Team Story"],
-  "readTime": 6,
-  "content": [
-    {
-      "type": "heading",
-      "value": "Where It All Started"
-    },
-    {
-      "type": "paragraph",
-      "value": "Blasters of Bharat started back in 14th January 2025, not as a big team but just a small group of 3-4 friends who simply loved playing cricket. Like most weekend cricketers, we used to play on local grounds where multiple teams shared the same space, making it chaotic and sometimes frustrating."
-    },
-    {
-      "type": "paragraph",
-      "value": "Getting proper time to bat or bowl was always a challenge. Matches were unstructured, and the experience was far from the kind of cricket we actually wanted to play."
-    },
-    {
-      "type": "heading",
-      "value": "The Big Shift to 20 Overs"
-    },
-    {
-      "type": "paragraph",
-      "value": "That’s when we decided to do something different — play proper 20-over matches. Instead of adjusting on crowded local grounds, we started exploring grounds on the outskirts of Bangalore. We booked proper grounds, planned matches, and began playing like a real team."
-    },
-    {
-      "type": "paragraph",
-      "value": "The first match felt different. Then came the second, and slowly, we realized how much we were enjoying this structured format. It wasn’t just casual cricket anymore — it started feeling like a real journey."
-    },
-    {
-      "type": "heading",
-      "value": "Leadership and Learning"
-    },
-    {
-      "type": "paragraph",
-      "value": "Sachin, our first captain, played a huge role in shaping the team during the early days. Moving from short 7-over matches to full 20-over games is not easy — it requires planning, patience, and better decision-making."
-    },
-    {
-      "type": "paragraph",
-      "value": "He learned and adapted quickly, managing the team, handling match situations, and building a proper structure around how we play. That transition phase was challenging, but it helped us grow as a team."
-    },
-    {
-      "type": "heading",
-      "value": "More Than Just Matches"
-    },
-    {
-      "type": "paragraph",
-      "value": "What started as a simple plan to play better cricket slowly turned into something much bigger. It became about team bonding, weekend excitement, and creating memories on the field."
-    },
-    {
-      "type": "paragraph",
-      "value": "Blasters of Bharat is not just a cricket team — it’s a journey of friends, passion, and the love for the game that keeps growing with every match we play."
-    }
-  ]
-}
+  }
 ]
