@@ -1,6 +1,7 @@
 import Container from '@/components/Container';
 import ContentRenderer from '@/components/ContentRenderer';
 import BlogCard from '@/components/BlogCard';
+import ShareButtons from '@/components/ShareButtons';
 import { getBlogBySlug, getRelatedBlogs, getAllBlogs } from '@/lib/blogUtils';
 import { formatDate } from '@/lib/utils';
 import Link from 'next/link';
@@ -81,16 +82,19 @@ export default function BlogDetailPage({ params }: BlogDetailPageProps) {
         <Container>
           <div className="max-w-3xl mx-auto">
             {/* Tags */}
-            <div className="flex flex-wrap gap-2 mb-8 pb-8 border-b border-gray-200 dark:border-gray-700">
-              {blog.tags.map((tag) => (
-                <Link
-                  key={tag}
-                  href={`/blog?tag=${tag}`}
-                  className="inline-block px-4 py-2 bg-orange-500 hover:bg-blue-600 text-white rounded-full font-semibold text-sm transition-colors"
-                >
-                  {tag}
-                </Link>
-              ))}
+            <div className="flex flex-wrap items-center justify-between gap-4 mb-8 pb-8 border-b border-gray-200 dark:border-gray-700">
+              <div className="flex flex-wrap gap-2">
+                {blog.tags.map((tag) => (
+                  <Link
+                    key={tag}
+                    href={`/blog?tag=${tag}`}
+                    className="inline-block px-4 py-2 bg-orange-500 hover:bg-blue-600 text-white rounded-full font-semibold text-sm transition-colors"
+                  >
+                    {tag}
+                  </Link>
+                ))}
+              </div>
+              <ShareButtons title={blog.title} slug={blog.slug} />
             </div>
 
             {/* Content */}
@@ -115,6 +119,12 @@ export default function BlogDetailPage({ params }: BlogDetailPageProps) {
                     {formatDate(blog.date)}
                   </p>
                 </div>
+              </div>
+
+              {/* Share Section */}
+              <div className="mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+                <p className="text-gray-600 dark:text-gray-400 text-sm mb-3">Enjoyed this article? Share it with your friends!</p>
+                <ShareButtons title={blog.title} slug={blog.slug} />
               </div>
             </div>
           </div>

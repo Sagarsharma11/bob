@@ -1,0 +1,44 @@
+{
+  "captains": [
+    {
+      "name": "Sachin Mishra",
+      "matchesPlayed": 31,
+      "wins": 9,
+      "losses": 22,
+      "winPercentage": 29.03,
+      "leadershipRating": 2.9
+    },
+    {
+      "name": "Gyan Kumar",
+      "matchesPlayed": 7,
+      "wins": 2,
+      "losses": 5,
+      "winPercentage": 28.57,
+      "leadershipRating": 2.8
+    },
+    {
+      "name": "Abhinav Upadhyay",
+      "matchesPlayed": 1,
+      "wins": 0,
+      "losses": 1,
+      "winPercentage": 0,
+      "leadershipRating": 1.0
+    },
+    {
+      "name": "Pawan",
+      "matchesPlayed": 1,
+      "wins": 0,
+      "losses": 1,
+      "winPercentage": 0,
+      "leadershipRating": 1.0
+    },
+    {
+      "name": "Sagar Sharma",
+      "matchesPlayed": 16,
+      "wins": 7,
+      "losses": 9,
+      "winPercentage": 43.75,
+      "leadershipRating": 4.4
+    }
+  ]
+}
