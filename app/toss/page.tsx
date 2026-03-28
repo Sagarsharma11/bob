@@ -14,7 +14,7 @@ export default function TossPage() {
   const [isFlipping, setIsFlipping] = useState(false);
   const [result, setResult] = useState<TossResult | null>(null);
   const [history, setHistory] = useState<TossRecord[]>([]);
-  const [flipCount, setFlipCount] = useState(0);
+
 
   const flipCoin = useCallback(() => {
     if (isFlipping) return;
@@ -29,7 +29,7 @@ export default function TossPage() {
     setTimeout(() => {
       setResult(newResult);
       setIsFlipping(false);
-      setFlipCount((prev) => prev + 1);
+
       setHistory((prev) => [{ result: newResult, id: Date.now() }, ...prev].slice(0, 20));
     }, 2000);
   }, [isFlipping]);
