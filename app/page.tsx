@@ -3,6 +3,7 @@ import BlogCard from '@/components/BlogCard';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getLatestBlogs, getFeaturedBlogs, getAllBlogs } from '@/lib/blogUtils';
+import VideoGallery from '@/components/VideoGallery';
 
 export default function Home() {
   const latestBlogs = getLatestBlogs(3);
@@ -86,6 +87,22 @@ export default function Home() {
               <BlogCard key={blog.id} blog={blog} />
             ))}
           </div>
+        </Container>
+      </section>
+
+      {/* Featured Videos Section */}
+      <section className="py-16">
+        <Container>
+          <div className="mb-12">
+            <h2 className="text-4xl font-bold mb-2 text-gray-900 dark:text-white">
+              Match Highlights
+            </h2>
+            <p className="text-gray-600 dark:text-gray-400">
+              Watch our best moments and weekend matches on YouTube
+            </p>
+          </div>
+
+          <VideoGallery />
         </Container>
       </section>
 

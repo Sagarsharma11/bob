@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { FaCrown, FaCoins, FaUserPlus, FaHome, FaBook, FaImage, FaChartBar } from 'react-icons/fa';
 import DarkModeToggle from './DarkModeToggle';
 
 export default function Navbar() {
@@ -32,15 +33,28 @@ export default function Navbar() {
   }, [isOpen]);
 
   const navLinks = [
-    { href: '/', label: 'Home', icon: '🏠' },
-    { href: '/blog', label: 'Blogs', icon: '📝' },
-    { href: '/blog/blasters-of-bharat-match-gallery', label: 'Gallery', icon: '🖼️' },
-    { href: '/blog/blasters-of-bharat-team-stats', label: 'Team Stats', icon: '📊' },
+    { href: '/', label: 'Home', icon: <FaHome className="w-5 h-5 mx-auto" /> },
+    { href: '/blog', label: 'Blogs', icon: <FaBook className="w-5 h-5 mx-auto" /> },
+    { href: '/blog/blasters-of-bharat-match-gallery', label: 'Gallery', icon: <FaImage className="w-5 h-5 mx-auto" /> },
+    { href: '/blog/blasters-of-bharat-team-stats', label: 'Team Stats', icon: <FaChartBar className="w-5 h-5 mx-auto" /> },
   ];
 
   const moreLinks = [
-    { href: '/captains', label: 'Captains Corner', icon: '👑' },
-    { href: '/toss', label: 'Coin Toss', icon: '🪙' },
+    { 
+      href: '/captains', 
+      label: 'Captains Corner', 
+      icon: <FaCrown className="w-5 h-5 mx-auto" />
+    },
+    { 
+      href: '/toss', 
+      label: 'Coin Toss', 
+      icon: <FaCoins className="w-5 h-5 mx-auto" />
+    },
+    { 
+      href: '/join', 
+      label: 'Join Us', 
+      icon: <FaUserPlus className="w-5 h-5 mx-auto" />
+    },
   ];
 
   return (
