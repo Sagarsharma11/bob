@@ -831,6 +831,17 @@
         "images": [
           "/images/bob_turnament1.jpeg",
           "/images/bob_turnament2.jpeg",
+          "/images/bob1.jpeg",
+          "/images/bob2.jpeg",
+          "/images/bob3.jpeg",
+          "/images/bob4.jpeg",
+          "/images/bob5.jpeg",
+          "/images/bob6.jpeg",
+          "/images/bob7.jpeg",
+          "/images/bob8.jpeg",
+          "/images/bob9.jpeg",
+          "/images/bob10.jpeg",
+          "/images/bob11.jpeg",
           "/images/bob_turnament3.jpeg",
           "/images/bob_turnament4.jpeg",
           "/images/bob_turnament5.jpeg",
@@ -908,14 +919,14 @@
       {
         "type": "list",
         "items": [
-          "Matches Played: 68",
-          "Upcoming Matches: 3",
-          "Matches Won: 17",
+          "Matches Played: 64",
+          "Upcoming Matches: 2",
+          "Matches Won: 21",
           "Matches Lost: 46",
           "Tie: 0",
           "Drawn: 0",
           "No Result: 2",
-          "Win Percentage: 27.0%"
+          "Win Percentage: 33.9%"
         ]
       },
       {
@@ -925,9 +936,9 @@
       {
         "type": "list",
         "items": [
-          "Toss Won: 26",
-          "Bat First: 14",
-          "Field First: 12"
+          "Toss Won: 28",
+          "Bat First: 15",
+          "Field First: 13"
         ]
       }
     ]

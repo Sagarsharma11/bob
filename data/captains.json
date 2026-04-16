@@ -1,6 +1,14 @@
 {
   "captains": [
     {
+      "name": "Sagar Sharma",
+      "matchesPlayed": 18,
+      "wins": 9,
+      "losses": 9,
+      "winPercentage": 50,
+      "leadershipRating": 4.4
+    },
+    {
       "name": "Sachin Mishra",
       "matchesPlayed": 31,
       "wins": 9,
@@ -31,14 +39,6 @@
       "losses": 1,
       "winPercentage": 0,
       "leadershipRating": 1.0
-    },
-    {
-      "name": "Sagar Sharma",
-      "matchesPlayed": 16,
-      "wins": 7,
-      "losses": 9,
-      "winPercentage": 43.75,
-      "leadershipRating": 4.4
     }
   ]
 }
