@@ -11,18 +11,18 @@ export default function BlogCard({ blog }: BlogCardProps) {
     <article className="bg-white dark:bg-gray-900 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden flex flex-col h-full">
       {/* Cover Image */}
       <div className="relative h-48 bg-gradient-to-br from-orange-500 to-blue-600 flex items-center justify-center overflow-hidden">
-        {blog.coverImage.startsWith('/') ? (
-          <div className="w-full h-full bg-gradient-to-br from-orange-500 to-blue-600 flex items-center justify-center">
-            <span className="text-white text-4xl font-bold opacity-20">
-              {blog.title.charAt(0)}
-            </span>
-          </div>
-        ) : (
+        {blog.coverImage ? (
           <img
             src={blog.coverImage}
             alt={blog.title}
             className="w-full h-full object-cover"
           />
+        ) : (
+          <div className="w-full h-full bg-gradient-to-br from-orange-500 to-blue-600 flex items-center justify-center">
+            <span className="text-white text-4xl font-bold opacity-20">
+              {blog.title.charAt(0)}
+            </span>
+          </div>
         )}
       </div>
 

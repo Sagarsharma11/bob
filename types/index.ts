@@ -18,7 +18,8 @@ export interface Blog {
   title: string;
   author: string;
   date: string;
-  coverImage: string;
+  coverImage?: string;
+  coverImageInsideBlog?: boolean;
   description?: string;
   tags: string[];
   content: ContentBlock[];

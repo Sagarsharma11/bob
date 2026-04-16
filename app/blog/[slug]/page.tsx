@@ -97,6 +97,17 @@ export default function BlogDetailPage({ params }: BlogDetailPageProps) {
               <ShareButtons title={blog.title} slug={blog.slug} />
             </div>
 
+            {/* Cover Image */}
+            {blog.coverImage && blog.coverImageInsideBlog && (
+              <div className="mb-10 w-full flex justify-center">
+                <img
+                  src={blog.coverImage}
+                  alt={blog.title}
+                  className="rounded-xl shadow-lg max-w-full h-auto max-h-[500px] py-4 object-cover"
+                />
+              </div>
+            )}
+
             {/* Content */}
             <ContentRenderer content={blog.content} />
 
